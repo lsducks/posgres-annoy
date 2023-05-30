@@ -1,0 +1,9 @@
+# Python cache
+.idea
+__pycache__/
+
+# AnnoyIndex (large files)
+/data
+
+# Jupyter notebook
+*.ipynb_checkpoints
